@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.bg1{
+    background-color: $bg1;
+    color:white;
+
+}
+table {
+    table-layout: fixed ;
+    width: 100% ;
+}
+td {
+    width: 30% ;
+}
